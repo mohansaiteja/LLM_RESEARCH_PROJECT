@@ -1,0 +1,8 @@
+langchain>=0.3,<1.0
+langchain-community>=0.3,<1.0
+langchain-core>=0.3,<1.0
+langchain-anthropic>=0.3,<1.0
+python-dotenv
+pydantic
+wikipedia
+duckduckgo-search
